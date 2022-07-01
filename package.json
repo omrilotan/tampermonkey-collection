@@ -1,0 +1,13 @@
+{
+  "name": "tampermonkey-scripts",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fix": "prettier --write .",
+    "check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
